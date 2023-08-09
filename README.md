@@ -16,6 +16,8 @@
  <img  align='center' src='assets/javascript.svg'> &nbsp; &nbsp;
  <img  align='center' src='assets/react.svg'> &nbsp; &nbsp;
  <img  align='center' src='assets/node-dot-js.svg'> &nbsp; &nbsp;
+ <img  align='center' src='assets/mongodb.svg'> &nbsp; &nbsp;
+ <img  align='center' src='assets/mysql.svg'> &nbsp; &nbsp;
  <img  align='center' src='assets/git.svg'> &nbsp; &nbsp;
  <img  align='center' src='assets/npm.svg'> &nbsp; &nbsp; <img  align='center' src='assets/jest.svg'> &nbsp; &nbsp;
  <img  align='center' src='assets/linux.svg'> &nbsp; &nbsp;
