@@ -22,7 +22,7 @@
 
 ## Tools :
 
- <div style="display:flex;align-items:center; justify-content:center;gap:2rem;"> 
+ <div display='flex' > 
  <img width='42px'  src='git-icon.png'>
  <img  width='42px' src='npm-icon.png'>
  <img style='width:1.6rem;;'  src='mongodb-icon.png'>
