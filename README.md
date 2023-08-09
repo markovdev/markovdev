@@ -9,7 +9,7 @@
 
 ## Programming Languages:
 
- <div align='' > 
+ <div > 
  <img  align='center' src='assets/html5.svg'> &nbsp; &nbsp;
  <img  align='center' src='assets/css3.svg'> &nbsp; &nbsp;
  <img  align='center' src='assets/sass.svg'> &nbsp; &nbsp;
@@ -24,13 +24,11 @@
 
 </div>
 
-## <br>
+<br>
 
 ## Tools :
 
 </div>
-
----
 
 - 🔭 I’m currently working on [Starlo](www.starlo.markovdev.com)
 
