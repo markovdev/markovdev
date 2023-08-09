@@ -22,12 +22,12 @@
 
 ## Tools :
 
- <div display='flex' > 
+ <div style="display:flex;align-items:center; justify-content:center;gap:2rem;"> 
  <img width='42px'  src='git-icon.png'>
  <img  width='42px' src='npm-icon.png'>
- <img width='42px' src='mongodb-icon.png'>
+ <img style='width:1.6rem;;'  src='mongodb-icon.png'>
  <img width='42px'   src='mysql-icon.png'>
- <img width='42px'  src='linux-icon.png'><img width='42px'  src='jest-js-icon.png'>
+ <img width='42px'  src='linux-icon.png'><img style='width:2.8rem;;'  src='jest-js-icon.png'>
 </div>
 
 ---
