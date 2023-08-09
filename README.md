@@ -11,9 +11,9 @@
 
  <div align='' > 
  <img  align='center' src='html-icon.png'> &nbsp; &nbsp;
-  <img  align='center' src='css3.png'>&nbsp; &nbsp;
+  <img align='center'  src='css3.svg'>&nbsp; &nbsp;
  <img  align='center' src='sass-icon.png'>&nbsp; &nbsp;
- <img  align='center' src='javascript.png'>&nbsp; &nbsp;
+ <img  align='center' src='javascript.svg'>&nbsp; &nbsp;
  <img align='center'  src='jest-js-icon.png'>&nbsp; &nbsp;
  <img align='center'  src='react-js-icon.png'>&nbsp; &nbsp;
  <img align='center'  src='npm-icon.png'>&nbsp; &nbsp;
