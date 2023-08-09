@@ -44,6 +44,6 @@
 
 <div align='center'>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markovdev&show_icons=true&bg_color=0d0d0d&text_color=f8f9fa&custom_title=🔥%20My%20Stats:)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markovdev&show_icons=true&bg_color=0d0d0d&text_color=f8f9fa&custom_title=🔥%20My%20Stats:&ring_color=f86969&icon_color=f86969&title_color=f86969)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
