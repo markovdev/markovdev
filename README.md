@@ -1,5 +1,16 @@
 <img src='./banner.gif'>
-
+<style>
+.flex {
+    display:flex;
+    align-items:center:
+    gap:3.2rem;
+}
+img {
+    width:2.8rem;
+    /* height:auto; */
+    /* object-fit:cover; */
+}
+</style>
 <p align="center" padding='200px' style="margin: 40px"> <img src="https://komarev.com/ghpvc/?username=markovdev&label=Profile%20views&color=f86969&style=for-the-badge " alt="markovdev" /> &nbsp;</p>
 
 <div align="center"> <a href="https://twitter.com/markov_dev" target="blank"><img src="https://img.shields.io/twitter/follow/markov_dev?logo=twitter&style=for-the-badge" alt="markov_dev" /></a>
@@ -9,7 +20,8 @@
 
 ## Programming Languages:
 
- <div style="display:flex;align-items:center; justify-content:center;gap:2rem;"> 
+ <div class='flex
+ '> 
  <img  style='width:2.8rem;;' src='html-icon.png'>
   <img  style='width:2.8rem;' src='css-icon.png'>
  <img  style='width:2.8rem;' src='sass-icon.png'>
@@ -22,7 +34,8 @@
 
 ## Tools :
 
- <div style="display:flex;align-items:center; justify-content:center;gap:2rem;"> 
+ <div class='flex
+ '> 
  <img width='42px'  src='git-icon.png'>
  <img  width='42px' src='npm-icon.png'>
  <img style='width:1.6rem;;'  src='mongodb-icon.png'>
