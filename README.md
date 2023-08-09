@@ -10,18 +10,16 @@
 ## Programming Languages:
 
  <div align='' > 
- <img  align='center' src='html-icon.png'> &nbsp; &nbsp;
-  <img align='center'  src='css3.svg'>&nbsp; &nbsp;
- <img  align='center' src='sass-icon.png'>&nbsp; &nbsp;
- <img  align='center' src='javascript.svg'>&nbsp; &nbsp;
- <img align='center'  src='jest-js-icon.png'>&nbsp; &nbsp;
- <img align='center'  src='react-js-icon.png'>&nbsp; &nbsp;
- <img align='center'  src='npm-icon.png'>&nbsp; &nbsp;
- <img align='center'  src='node-js-icon.png'>&nbsp; &nbsp;
- <img align='center'  src='mongodb-icon.png'>&nbsp; &nbsp;
- <img align='center'  src='mysql-icon.png'>&nbsp; &nbsp;
- <img align='center'  src='git-icon.png'>&nbsp; &nbsp;
- <img align='center'  src='linux-icon.png'>&nbsp; &nbsp;
+ <img  align='center' src='assets/html5.svg'> &nbsp; &nbsp;
+ <img  align='center' src='assets/css3.svg'> &nbsp; &nbsp;
+ <img  align='center' src='assets/sass.svg'> &nbsp; &nbsp;
+ <img  align='center' src='assets/javascript.svg'> &nbsp; &nbsp;
+ <img  align='center' src='assets/react.svg'> &nbsp; &nbsp;
+ <img  align='center' src='assets/node-dot-js.svg'> &nbsp; &nbsp;
+ <img  align='center' src='assets/git.svg'> &nbsp; &nbsp;
+ <img  align='center' src='assets/npm.svg'> &nbsp; &nbsp; <img  align='center' src='assets/jest.svg'> &nbsp; &nbsp;
+ <img  align='center' src='assets/linux.svg'> &nbsp; &nbsp;
+
 </div>
 
 ---
