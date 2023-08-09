@@ -10,18 +10,18 @@
 ## Programming Languages:
 
  <div align='' > 
- <img  align='center' src='html-icon.png'>
-  <img  align='center' src='css-icon.png'>
- <img  align='center' src='sass-icon.png'>
- <img  align='center' src='javascript-icon.png'>
- <img align='center'  src='jest-js-icon.png'>
- <img align='center'  src='react-js-icon.png'>
- <img align='center'  src='npm-icon.png'>
- <img align='center'  src='node-js-icon.png'>
- <img align='center'  src='mongodb-icon.png'>
- <img align='center'  src='mysql-icon.png'>
- <img align='center'  src='git-icon.png'>
- <img align='center'  src='linux-icon.png'>
+ <img  align='center' src='html-icon.png'> &nbsp; &nbsp;
+  <img  align='center' src='css-icon.png'>&nbsp; &nbsp;
+ <img  align='center' src='sass-icon.png'>&nbsp; &nbsp;
+ <img  align='center' src='javascript-icon.png'>&nbsp; &nbsp;
+ <img align='center'  src='jest-js-icon.png'>&nbsp; &nbsp;
+ <img align='center'  src='react-js-icon.png'>&nbsp; &nbsp;
+ <img align='center'  src='npm-icon.png'>&nbsp; &nbsp;
+ <img align='center'  src='node-js-icon.png'>&nbsp; &nbsp;
+ <img align='center'  src='mongodb-icon.png'>&nbsp; &nbsp;
+ <img align='center'  src='mysql-icon.png'>&nbsp; &nbsp;
+ <img align='center'  src='git-icon.png'>&nbsp; &nbsp;
+ <img align='center'  src='linux-icon.png'>&nbsp; &nbsp;
 </div>
 
 ---
