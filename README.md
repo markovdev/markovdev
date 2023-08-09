@@ -9,22 +9,25 @@
 
 ## Programming Languages:
 
- <div class='flex
- '> 
- <img  style='width:2.8rem;;' src='html-icon.png'>
-  <img  style='width:2.8rem;' src='css-icon.png'>
- <img  style='width:2.8rem;' src='sass-icon.png'>
- <img  style='width:2.8rem;;' src='javascript-icon.png'>
- <img style='width:2.8rem;;'  src='react-js-icon.png'>
- <img style='width:2.8rem;;'  src='node-js-icon.png'>
+ <div align='' > 
+ <img  align='center' src='html-icon.png'>
+  <img  align='center' src='css-icon.png'>
+ <img  align='center' src='sass-icon.png'>
+ <img  align='center' src='javascript-icon.png'>
+ <img align='center'  src='jest-js-icon.png'>
+ <img align='center'  src='react-js-icon.png'>
+ <img align='center'  src='npm-icon.png'>
+ <img align='center'  src='node-js-icon.png'>
+ <img align='center'  src='mongodb-icon.png'>
+ <img align='center'  src='mysql-icon.png'>
+ <img align='center'  src='git-icon.png'>
+ <img align='center'  src='linux-icon.png'>
 </div>
 
 ---
 
 ## Tools :
 
- <div  > 
- <img src='css.webp'>
 </div>
 
 ---
