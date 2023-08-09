@@ -1,16 +1,5 @@
 <img src='./banner.gif'>
-<style>
-.flex {
-    display:flex;
-    align-items:center:
-    gap:3.2rem;
-}
-img {
-    width:2.8rem;
-    /* height:auto; */
-    /* object-fit:cover; */
-}
-</style>
+
 <p align="center" padding='200px' style="margin: 40px"> <img src="https://komarev.com/ghpvc/?username=markovdev&label=Profile%20views&color=f86969&style=for-the-badge " alt="markovdev" /> &nbsp;</p>
 
 <div align="center"> <a href="https://twitter.com/markov_dev" target="blank"><img src="https://img.shields.io/twitter/follow/markov_dev?logo=twitter&style=for-the-badge" alt="markov_dev" /></a>
@@ -20,15 +9,11 @@ img {
 
 ## Programming Languages:
 
- <div class='flex
- '> 
- <img  style='width:2.8rem;;' src='html-icon.png'>
+<p align="center" padding='200px' > <img  style='width:2.8rem;;' src='html-icon.png'>   <img  style='width:2.8rem;;' src='html-icon.png'>
   <img  style='width:2.8rem;' src='css-icon.png'>
  <img  style='width:2.8rem;' src='sass-icon.png'>
- <img  style='width:2.8rem;;' src='javascript-icon.png'>
- <img style='width:2.8rem;;'  src='react-js-icon.png'>
- <img style='width:2.8rem;;'  src='node-js-icon.png'>
-</div>
+ <img  style='width:2.8rem;;' src='javascript-icon.png'>  <img style='width:2.8rem;;'  src='react-js-icon.png'>
+ <img style='width:2.8rem;;'  src='node-js-icon.png'>&nbsp;</p>
 
 ---
 
