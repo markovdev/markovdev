@@ -9,23 +9,22 @@
 
 ## Programming Languages:
 
-<p align="center" padding='200px' > <img  style='width:2.8rem;;' src='html-icon.png'>   <img  style='width:2.8rem;;' src='html-icon.png'>
+ <div class='flex
+ '> 
+ <img  style='width:2.8rem;;' src='html-icon.png'>
   <img  style='width:2.8rem;' src='css-icon.png'>
  <img  style='width:2.8rem;' src='sass-icon.png'>
- <img  style='width:2.8rem;;' src='javascript-icon.png'>  <img style='width:2.8rem;;'  src='react-js-icon.png'>
- <img style='width:2.8rem;;'  src='node-js-icon.png'>&nbsp;</p>
+ <img  style='width:2.8rem;;' src='javascript-icon.png'>
+ <img style='width:2.8rem;;'  src='react-js-icon.png'>
+ <img style='width:2.8rem;;'  src='node-js-icon.png'>
+</div>
 
 ---
 
 ## Tools :
 
- <div class='flex
- '> 
- <img width='42px'  src='git-icon.png'>
- <img  width='42px' src='npm-icon.png'>
- <img style='width:1.6rem;;'  src='mongodb-icon.png'>
- <img width='42px'   src='mysql-icon.png'>
- <img width='42px'  src='linux-icon.png'><img style='width:2.8rem;;'  src='jest-js-icon.png'>
+ <div  > 
+ <img src='css.webp'>
 </div>
 
 ---
