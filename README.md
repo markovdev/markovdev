@@ -1,8 +1,8 @@
 ## <!-- Banner goes here... -->
 
-# Hello and Welcome 👋
-
 <img src='./assets/header.svg'>
+
+# Hello and Welcome 👋
 
 ## About me 👨‍💻
 
