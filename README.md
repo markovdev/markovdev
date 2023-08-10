@@ -2,7 +2,7 @@
 
 # Hello and Welcome 👋
 
-<img src='./assets/Header.png'>
+<img src='./assets/header.svg'>
 
 ## About me 👨‍💻
 
