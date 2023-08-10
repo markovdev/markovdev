@@ -2,7 +2,7 @@
 
 # Hello and Welcome 👋
 
-<img src='./Header.png'>
+<img src='./assets/Header.png'>
 
 ## About me 👨‍💻
 
@@ -10,9 +10,9 @@ Greetings! My name is Markov, and I am a skilled MERN (MongoDB, Express.js, Reac
 
 Moreover, my expertise in Cyber Security sets me apart as a developer who prioritizes safeguarding critical data and sensitive information. I possess an in-depth understanding of various security frameworks, best practices, and industry standards. This includes implementing secure authentication and authorization mechanisms, conducting vulnerability assessments, performing penetration testing, and establishing stringent security protocols throughout the development lifecycle.
 
-## Web Expeirence 🧠
+<!-- ## Web Expeirence 🧠
 
-Throughout my professional journey, I have gained extensive knowledge and hands-on experience in all aspects of the MERN stack, allowing me to deliver high-quality web applications that are both user-friendly and secure. By utilizing the power of MongoDB for database management, Express.js for server-side development, React for building responsive front-end interfaces, and Node.js for efficient server-side scripting, I am capable of developing scalable and performance-oriented applications.
+Throughout my professional journey, I have gained extensive knowledge and hands-on experience in all aspects of the MERN stack, allowing me to deliver high-quality web applications that are both user-friendly and secure. By utilizing the power of MongoDB for database management, Express.js for server-side development, React for building responsive front-end interfaces, and Node.js for efficient server-side scripting, I am capable of developing scalable and performance-oriented applications. -->
 
 <p align="center" padding='200px' style="margin: 40px"> <img src="https://komarev.com/ghpvc/?username=markovdev&label=Profile%20views&color=f86969&style=for-the-badge " alt="markovdev" /> &nbsp;</p>
 
