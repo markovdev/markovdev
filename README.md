@@ -1,5 +1,14 @@
-<img src='./banner.gif'>
+# Hello and Welcome 👋
 
+## About me 👨‍💻
+
+Greetings! My name is Markov, and I am a skilled MERN (MongoDB, Express.js, React, Node.js) Stack Developer with expertise in the field of Cyber Security. With a passion for creating secure and efficient web applications, I have dedicated my career to both developing robust software solutions and ensuring their protection from potential threats.
+
+## <!-- Banner goes here... -->
+
+<img src='./banner.gif'>
+## Web Expeirence 🧠
+Throughout my professional journey, I have gained extensive knowledge and hands-on experience in all aspects of the MERN stack, allowing me to deliver high-quality web applications that are both user-friendly and secure. By utilizing the power of MongoDB for database management, Express.js for server-side development, React for building responsive front-end interfaces, and Node.js for efficient server-side scripting, I am capable of developing scalable and performance-oriented applications.
 <p align="center" padding='200px' style="margin: 40px"> <img src="https://komarev.com/ghpvc/?username=markovdev&label=Profile%20views&color=f86969&style=for-the-badge " alt="markovdev" /> &nbsp;</p>
 
 <div align="center"> <a href="https://twitter.com/markov_dev" target="blank"><img src="https://img.shields.io/twitter/follow/markov_dev?logo=twitter&style=for-the-badge" alt="markov_dev" /></a>
@@ -7,7 +16,7 @@
 
 ---
 
-## Programming Languages:
+## Programming Languages & Tools ⚙:
 
  <div > 
  <img  align='center' src='assets/html5.svg'> &nbsp; &nbsp;
@@ -22,13 +31,7 @@
  <img  align='center' src='assets/npm.svg'> &nbsp; &nbsp; <img  align='center' src='assets/jest.svg'> &nbsp; &nbsp;
  <img  align='center' src='assets/linux.svg'> &nbsp; &nbsp;
 
-</div>
-
 ---
-
-## Tools :
-
-</div>
 
 - 🔭 I’m currently working on [Starlo](www.starlo.markovdev.com)
 
@@ -36,7 +39,7 @@
 
 - 📝 I regularly make posts on Instagram [markov.dev](https://instagram.com/markov.dev?igshid=MzRlODBiNWFlZA==)
 
-- 📫 How to reach me **markov@markovdev.com**
+- 📫 You can contact me at => **markov@markovdev.com**
 
 ---
 
